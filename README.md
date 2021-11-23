@@ -1,17 +1,18 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+23/11/2021
 
-### Project Title
+### Project 3: Post Your Work on GitHub
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+This project reflects the work of Project 2: Explore US Bikeshare Data, through the Git. 
 
-### Files used
-Include the files used
+### Files used and Sources
+1. Git key terms 
+2. Git commands document (Source: https://git-scm.com/docs)
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Git key terms: [ud123-git-keyterms.pdf](https://github.com/AdeleGrace/pdsnd_github/files/7585142/ud123-git-keyterms.pdf)
