@@ -10,9 +10,11 @@ Replace the Project Title
 This project reflects the work of Project 2: Explore US Bikeshare Data, through the Git. 
 
 ### Files used and Sources
-1. Git key terms 
+1. Git key terms (Source: [ud123-git-keyterms.pdf](https://github.com/AdeleGrace/pdsnd_github/files/7585142/ud123-git-keyterms.pdf))
 2. Git commands document (Source: https://git-scm.com/docs)
 
 
 ### Credits
-Git key terms: [ud123-git-keyterms.pdf](https://github.com/AdeleGrace/pdsnd_github/files/7585142/ud123-git-keyterms.pdf)
+- washington.csv
+- chicago.csv
+- newyorkcity.csv
