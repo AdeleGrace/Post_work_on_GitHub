@@ -4,10 +4,9 @@
 23/11/2021
 
 ### Project 3: Post Your Work on GitHub
-Replace the Project Title
 
 ### Description
-This project reflects the work of Project 2: Explore US Bikeshare Data, through the Git. 
+This project reflects the work of Project 2: Explore US Bikeshare Data, through the Git commands. 
 
 ### Files used and Sources
 1. Git key terms (Source: [ud123-git-keyterms.pdf](https://github.com/AdeleGrace/pdsnd_github/files/7585142/ud123-git-keyterms.pdf))
