@@ -13,7 +13,4 @@ This project reflects the work of Project 2: Explore US Bikeshare Data, through 
 2. Git commands document (Source: https://git-scm.com/docs)
 
 
-### Data Sources
-- washington.csv
-- chicago.csv
-- newyorkcity.csv
+### Credits
